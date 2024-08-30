@@ -1,6 +1,6 @@
 function setup() {
   (600, 600);
-   background("White"
+   background("White")
 
 
 function draw() {
